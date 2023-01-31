@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "GGJ23",
+			"Path": "C:\\Users\\nobel\\Desktop\\GGJ23 Repo\\GGJ23\\GGJ23\\Source\\GGJ23.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GGJ23Editor",
+			"Path": "C:\\Users\\nobel\\Desktop\\GGJ23 Repo\\GGJ23\\GGJ23\\Source\\GGJ23Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

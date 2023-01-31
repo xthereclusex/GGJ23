@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\GGJ23.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GGJ23.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\GGJ23Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\GGJ23">
+      <UniqueIdentifier>{E956FA7D-8740-317C-AAA8-DFBD75E88726}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GGJ23\GGJ23.Build.cs">
+      <Filter>Source\GGJ23</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\GGJ23\GGJ23.cpp">
+      <Filter>Source\GGJ23</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GGJ23\GGJ23.h">
+      <Filter>Source\GGJ23</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GGJ23\GGJ23GameModeBase.cpp">
+      <Filter>Source\GGJ23</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GGJ23\GGJ23GameModeBase.h">
+      <Filter>Source\GGJ23</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

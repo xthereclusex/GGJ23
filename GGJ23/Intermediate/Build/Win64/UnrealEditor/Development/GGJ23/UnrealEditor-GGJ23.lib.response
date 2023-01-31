@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-GGJ23.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\nobel\Desktop\GGJ23 Repo\GGJ23\GGJ23\Intermediate\Build\Win64\GGJ23Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\nobel\Desktop\GGJ23 Repo\GGJ23\GGJ23\Intermediate\Build\Win64\UnrealEditor\Development\GGJ23\GGJ23.init.gen.cpp.obj"
+"C:\Users\nobel\Desktop\GGJ23 Repo\GGJ23\GGJ23\Intermediate\Build\Win64\UnrealEditor\Development\GGJ23\GGJ23GameModeBase.gen.cpp.obj"
+"C:\Users\nobel\Desktop\GGJ23 Repo\GGJ23\GGJ23\Intermediate\Build\Win64\UnrealEditor\Development\GGJ23\GGJ23.cpp.obj"
+"C:\Users\nobel\Desktop\GGJ23 Repo\GGJ23\GGJ23\Intermediate\Build\Win64\UnrealEditor\Development\GGJ23\GGJ23GameModeBase.cpp.obj"
+"C:\Users\nobel\Desktop\GGJ23 Repo\GGJ23\GGJ23\Intermediate\Build\Win64\UnrealEditor\Development\GGJ23\Default.rc2.res"
+/OUT:"C:\Users\nobel\Desktop\GGJ23 Repo\GGJ23\GGJ23\Intermediate\Build\Win64\UnrealEditor\Development\GGJ23\UnrealEditor-GGJ23.lib"
