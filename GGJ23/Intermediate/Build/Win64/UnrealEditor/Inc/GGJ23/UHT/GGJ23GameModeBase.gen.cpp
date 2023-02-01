@@ -76,15 +76,15 @@ void EmptyLinkFunctionForGeneratedCodeGGJ23GameModeBase() {}
 	}
 	DEFINE_VTABLE_PTR_HELPER_CTOR(AGGJ23GameModeBase);
 	AGGJ23GameModeBase::~AGGJ23GameModeBase() {}
-	struct Z_CompiledInDeferFile_FID_Users_nobel_Desktop_GGJ23_Repo_GGJ23_GGJ23_Source_GGJ23_GGJ23GameModeBase_h_Statics
+	struct Z_CompiledInDeferFile_FID_GGJ23_Source_GGJ23_GGJ23GameModeBase_h_Statics
 	{
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
-	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_nobel_Desktop_GGJ23_Repo_GGJ23_GGJ23_Source_GGJ23_GGJ23GameModeBase_h_Statics::ClassInfo[] = {
+	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_GGJ23_Source_GGJ23_GGJ23GameModeBase_h_Statics::ClassInfo[] = {
 		{ Z_Construct_UClass_AGGJ23GameModeBase, AGGJ23GameModeBase::StaticClass, TEXT("AGGJ23GameModeBase"), &Z_Registration_Info_UClass_AGGJ23GameModeBase, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AGGJ23GameModeBase), 2328566082U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_nobel_Desktop_GGJ23_Repo_GGJ23_GGJ23_Source_GGJ23_GGJ23GameModeBase_h_3625157513(TEXT("/Script/GGJ23"),
-		Z_CompiledInDeferFile_FID_Users_nobel_Desktop_GGJ23_Repo_GGJ23_GGJ23_Source_GGJ23_GGJ23GameModeBase_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_nobel_Desktop_GGJ23_Repo_GGJ23_GGJ23_Source_GGJ23_GGJ23GameModeBase_h_Statics::ClassInfo),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_GGJ23_Source_GGJ23_GGJ23GameModeBase_h_3625157513(TEXT("/Script/GGJ23"),
+		Z_CompiledInDeferFile_FID_GGJ23_Source_GGJ23_GGJ23GameModeBase_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_GGJ23_Source_GGJ23_GGJ23GameModeBase_h_Statics::ClassInfo),
 		nullptr, 0,
 		nullptr, 0);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

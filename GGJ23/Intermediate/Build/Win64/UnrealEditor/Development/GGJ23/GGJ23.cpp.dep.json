@@ -1,12 +1,12 @@
 {
-    "Version": "1.2",
+    "Version": "1.1",
     "Data": {
-        "Source": "c:\\users\\nobel\\desktop\\ggj23 repo\\ggj23\\ggj23\\source\\ggj23\\ggj23.cpp",
+        "Source": "c:\\users\\herts\\documents\\github\\ggj23\\ggj23\\source\\ggj23\\ggj23.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\nobel\\desktop\\ggj23 repo\\ggj23\\ggj23\\intermediate\\build\\win64\\ggj23editor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "PCH": "c:\\users\\herts\\documents\\github\\ggj23\\ggj23\\intermediate\\build\\win64\\ggj23editor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
         "Includes": [
-            "c:\\users\\nobel\\desktop\\ggj23 repo\\ggj23\\ggj23\\intermediate\\build\\win64\\unrealeditor\\development\\ggj23\\definitions.ggj23.h",
-            "c:\\users\\nobel\\desktop\\ggj23 repo\\ggj23\\ggj23\\source\\ggj23\\ggj23.h"
+            "c:\\users\\herts\\documents\\github\\ggj23\\ggj23\\intermediate\\build\\win64\\unrealeditor\\development\\ggj23\\definitions.ggj23.h",
+            "c:\\users\\herts\\documents\\github\\ggj23\\ggj23\\source\\ggj23\\ggj23.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
