@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\nobel\\Desktop\\GGJ23 Repo\\GGJ23\\GGJ23\\Source\\GGJ23\\GGJ23.Build.cs",
-		"C:\\Users\\nobel\\Desktop\\GGJ23 Repo\\GGJ23\\GGJ23\\Source\\GGJ23.Target.cs",
-		"C:\\Users\\nobel\\Desktop\\GGJ23 Repo\\GGJ23\\GGJ23\\Source\\GGJ23Editor.Target.cs"
+		"C:\\Users\\herts\\Documents\\GitHub\\GGJ23\\GGJ23\\Source\\GGJ23\\GGJ23.Build.cs",
+		"C:\\Users\\herts\\Documents\\GitHub\\GGJ23\\GGJ23\\Source\\GGJ23.Target.cs",
+		"C:\\Users\\herts\\Documents\\GitHub\\GGJ23\\GGJ23\\Source\\GGJ23Editor.Target.cs"
 	],
 	"EngineVersion": "5.1.0"
 }
