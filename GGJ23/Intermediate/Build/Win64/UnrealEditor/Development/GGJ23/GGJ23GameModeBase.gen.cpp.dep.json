@@ -1,17 +1,17 @@
 {
-    "Version": "1.2",
+    "Version": "1.1",
     "Data": {
-        "Source": "c:\\users\\nobel\\desktop\\ggj23 repo\\ggj23\\ggj23\\intermediate\\build\\win64\\unrealeditor\\inc\\ggj23\\uht\\ggj23gamemodebase.gen.cpp",
+        "Source": "c:\\users\\herts\\documents\\github\\ggj23\\ggj23\\intermediate\\build\\win64\\unrealeditor\\inc\\ggj23\\uht\\ggj23gamemodebase.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\nobel\\desktop\\ggj23 repo\\ggj23\\ggj23\\intermediate\\build\\win64\\ggj23editor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "PCH": "c:\\users\\herts\\documents\\github\\ggj23\\ggj23\\intermediate\\build\\win64\\ggj23editor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
         "Includes": [
-            "c:\\users\\nobel\\desktop\\ggj23 repo\\ggj23\\ggj23\\intermediate\\build\\win64\\unrealeditor\\development\\ggj23\\definitions.ggj23.h",
-            "c:\\users\\nobel\\desktop\\ggj23 repo\\ggj23\\ggj23\\source\\ggj23\\ggj23gamemodebase.h",
-            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
-            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
-            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
-            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
-            "c:\\users\\nobel\\desktop\\ggj23 repo\\ggj23\\ggj23\\intermediate\\build\\win64\\unrealeditor\\inc\\ggj23\\uht\\ggj23gamemodebase.generated.h"
+            "c:\\users\\herts\\documents\\github\\ggj23\\ggj23\\intermediate\\build\\win64\\unrealeditor\\development\\ggj23\\definitions.ggj23.h",
+            "c:\\users\\herts\\documents\\github\\ggj23\\ggj23\\source\\ggj23\\ggj23gamemodebase.h",
+            "d:\\program files (x86)\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\program files (x86)\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\program files (x86)\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "d:\\program files (x86)\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\herts\\documents\\github\\ggj23\\ggj23\\intermediate\\build\\win64\\unrealeditor\\inc\\ggj23\\uht\\ggj23gamemodebase.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
